@@ -1,0 +1,7 @@
+watch:
+  - src
+  - .trmnlp.yml
+
+variables:
+  greeting: "Hola, World! Chicka chicka boom boom."
+  message: "This is my first TRMNL plugin."
